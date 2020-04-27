@@ -4,7 +4,7 @@
   font-style:normal;
   font-size:13px;
   letter-spacing:normal;
-  color:#333333;
+  color:blue;
   vertical-align:none;
   text-align:center;
   line-height:normal;
@@ -17,7 +17,7 @@
 .button {
 }
 .primary_button {
-  color:#FFFFFF;
+  color:blue;
 }
 .link_button {
   color:#169BD5;
@@ -75,11 +75,11 @@
   text-align:left;
 }
 .droplist {
-  color:#000000;
+  color:#333333;
   text-align:left;
 }
 .list_box {
-  color:#000000;
+  color:#333333;
   text-align:left;
 }
 .checkbox {
@@ -93,15 +93,15 @@
 .menu_item {
 }
 .marker {
-  color:#FFFFFF;
+  color:blue;
 }
 .form_hint {
-  color:#999999;
+  color:blue;
 }
 .form_disabled {
 }
 ._表单提示 {
-  color:#999999;
+  color:blue;
 }
 ._表单禁用 {
 }
